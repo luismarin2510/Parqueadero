@@ -13,14 +13,14 @@ namespace Parqueadero.App.Persistencia
         public DbSet<Transaccion> transacciones { get; set; }
         public DbSet<Vehiculo> vehiculos { get; set; }
 
-        // protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        // {
-        //     if (!optionsBuilder.IsConfigured)
-        //     {
-        //         optionsBuilder
-        //         .UseSqlServer("Data Source =(localdb)\\MSSQLLocalDB; Initial Catalog = BaseDatosParqueadero");
-        //     }
-        // }
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            if (!optionsBuilder.IsConfigured)
+            {
+                optionsBuilder
+                .UseSqlServer("Data Source =(localdb)\\MSSQLLocalDB; Initial Catalog = BaseDatosParqueadero");
+            }
+        }
     }
 
 }
