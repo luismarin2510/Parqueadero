@@ -2016,11 +2016,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\parqueadero\\Parqueadero\\Parqueadero.App\\Parqueadero.App.Consola\\Parqueadero.App.Consola.csproj",
+      "projectUniqueName": "D:\\parqueadero\\Parqueadero\\parqueadero.App\\Parqueadero.App.Consola\\Parqueadero.App.Consola.csproj",
       "projectName": "Parqueadero.App.Consola",
-      "projectPath": "D:\\parqueadero\\Parqueadero\\Parqueadero.App\\Parqueadero.App.Consola\\Parqueadero.App.Consola.csproj",
+      "projectPath": "D:\\parqueadero\\Parqueadero\\parqueadero.App\\Parqueadero.App.Consola\\Parqueadero.App.Consola.csproj",
       "packagesPath": "C:\\Users\\Inquisidor\\.nuget\\packages\\",
-      "outputPath": "D:\\parqueadero\\Parqueadero\\Parqueadero.App\\Parqueadero.App.Consola\\obj\\",
+      "outputPath": "D:\\parqueadero\\Parqueadero\\parqueadero.App\\Parqueadero.App.Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Inquisidor\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2035,11 +2035,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\parqueadero\\Parqueadero\\Parqueadero.App\\Parqueadero.App.Dominio\\Parqueadero.App.Dominio.csproj": {
-              "projectPath": "D:\\parqueadero\\Parqueadero\\Parqueadero.App\\Parqueadero.App.Dominio\\Parqueadero.App.Dominio.csproj"
+            "D:\\parqueadero\\Parqueadero\\parqueadero.App\\Parqueadero.App.Dominio\\Parqueadero.App.Dominio.csproj": {
+              "projectPath": "D:\\parqueadero\\Parqueadero\\parqueadero.App\\Parqueadero.App.Dominio\\Parqueadero.App.Dominio.csproj"
             },
-            "D:\\parqueadero\\Parqueadero\\Parqueadero.App\\Parqueadero.App.Persistencia\\Parqueadero.App.Persistencia.csproj": {
-              "projectPath": "D:\\parqueadero\\Parqueadero\\Parqueadero.App\\Parqueadero.App.Persistencia\\Parqueadero.App.Persistencia.csproj"
+            "D:\\parqueadero\\Parqueadero\\parqueadero.App\\Parqueadero.App.Persistencia\\Parqueadero.App.Persistencia.csproj": {
+              "projectPath": "D:\\parqueadero\\Parqueadero\\parqueadero.App\\Parqueadero.App.Persistencia\\Parqueadero.App.Persistencia.csproj"
             }
           }
         }
