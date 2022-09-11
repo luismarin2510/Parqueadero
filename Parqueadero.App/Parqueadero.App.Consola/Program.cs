@@ -11,6 +11,7 @@ namespace Parqueadero.App.Consola
         {
             Console.WriteLine("Hello, World!");
             AddPerson();
+            // buscarPersona(1);
 
         }
         private static void AddPerson()
@@ -19,13 +20,14 @@ namespace Parqueadero.App.Consola
             var pers = new Persona
             {
 
-                nombre = "Juan Carlos",
-                apellido = "Mora Lizcano",
-                cedula = "1x973x8xxx",
-                telefono = "31x54x15xx",
-                email = "opraedu@gmail.com",
-                estacionamiento = "1",
-                numero_vehiculos = "1"
+                nombre = "Pedro ",
+                apellido = "Gomez Hernandez",
+                cedula = "109x3x8x5x",
+                telefono = "31x86x67xx",
+                email = "pedro@xmail.com",
+                estacionamiento = "3",
+                numero_vehiculos = "1",
+                horario = "2022-09-11 12:05:05",
 
             };
             _repoPersona.AddPersona(pers);
@@ -38,7 +40,8 @@ namespace Parqueadero.App.Consola
 
             if (person != null)
             {
-                Console.WriteLine("nombre: " + person.nombre + " " + person.apellido + "\n telefono: " + person.telefono + "\n Estacionamiento: " + person.estacionamiento);
+                Console.WriteLine("nombre: " + person.nombre + " " + person.apellido + "\nTelefono: " + person.telefono + "\nEstacionamiento: " + person.estacionamiento
+                +" "+"\nhorario de ingreso: "+person.horario);
             }
         }
 
