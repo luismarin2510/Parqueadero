@@ -19,12 +19,12 @@ namespace Parqueadero.App.Consola
             var pers = new Persona
             {
 
-                nombre = "Luis Eduardo",
-                apellido = "Marin Velasco",
-                cedula = "109x3x81xx",
-                telefono = "31x75x25xx",
+                nombre = "Juan Carlos",
+                apellido = "Mora Lizcano",
+                cedula = "1x973x8xxx",
+                telefono = "31x54x15xx",
                 email = "opraedu@gmail.com",
-                estacionamiento = "2",
+                estacionamiento = "1",
                 numero_vehiculos = "1"
 
             };
