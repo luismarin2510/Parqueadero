@@ -5,10 +5,12 @@ namespace Parqueadero.App.Consola
 {
     class program
     {
+        private static IRepositorio _repoPersona =  new Repositorio(new Parqueadero.App.Persistencia.AppContext());
 
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            AddPerson();
 
         }
         private static void AddPerson()

@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\parqueadero\\Parqueadero\\parqueadero.App\\parqueadero.App.Persistencia\\Parqueadero.App.Persistencia.csproj": {}
+    "D:\\parqueadero\\Parqueadero\\parqueadero.App\\Parqueadero.App.Persistencia\\Parqueadero.App.Persistencia.csproj": {}
   },
   "projects": {
     "D:\\parqueadero\\Parqueadero\\parqueadero.App\\Parqueadero.App.Dominio\\Parqueadero.App.Dominio.csproj": {
@@ -57,14 +57,14 @@
         }
       }
     },
-    "D:\\parqueadero\\Parqueadero\\parqueadero.App\\parqueadero.App.Persistencia\\Parqueadero.App.Persistencia.csproj": {
+    "D:\\parqueadero\\Parqueadero\\parqueadero.App\\Parqueadero.App.Persistencia\\Parqueadero.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\parqueadero\\Parqueadero\\parqueadero.App\\parqueadero.App.Persistencia\\Parqueadero.App.Persistencia.csproj",
+        "projectUniqueName": "D:\\parqueadero\\Parqueadero\\parqueadero.App\\Parqueadero.App.Persistencia\\Parqueadero.App.Persistencia.csproj",
         "projectName": "Parqueadero.App.Persistencia",
-        "projectPath": "D:\\parqueadero\\Parqueadero\\parqueadero.App\\parqueadero.App.Persistencia\\Parqueadero.App.Persistencia.csproj",
+        "projectPath": "D:\\parqueadero\\Parqueadero\\parqueadero.App\\Parqueadero.App.Persistencia\\Parqueadero.App.Persistencia.csproj",
         "packagesPath": "C:\\Users\\Inquisidor\\.nuget\\packages\\",
-        "outputPath": "D:\\parqueadero\\Parqueadero\\parqueadero.App\\parqueadero.App.Persistencia\\obj\\",
+        "outputPath": "D:\\parqueadero\\Parqueadero\\parqueadero.App\\Parqueadero.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Inquisidor\\AppData\\Roaming\\NuGet\\NuGet.Config"
