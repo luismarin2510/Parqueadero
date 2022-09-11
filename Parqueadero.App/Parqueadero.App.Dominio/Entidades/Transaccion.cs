@@ -3,7 +3,7 @@ using System;
 namespace Grupo36.App.Dominio
 {
 
-    public class Persona
+    public class Transaccion
     {
         public DateTime acceso {get; set;}
         public DateTime salida {get; set;}

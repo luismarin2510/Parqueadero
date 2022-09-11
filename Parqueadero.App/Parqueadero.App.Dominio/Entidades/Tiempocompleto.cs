@@ -3,7 +3,7 @@
 namespace Grupo36.App.Dominio
 {
 
-    public class Persona
+    public class Tiempocompleto
     {
         public int Id_usuario {get; set;}
         public Boolean aprobacion {get; set;}

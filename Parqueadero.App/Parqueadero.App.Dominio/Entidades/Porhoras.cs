@@ -3,7 +3,7 @@ using System;
 namespace Grupo36.App.Dominio
 {
 
-    public class Persona
+    public class Porhoras
     {
         
         public int Id_visitante {get; set;}

@@ -3,7 +3,7 @@ using System;
 namespace Grupo36.App.Dominio
 {
 
-    public class Persona
+    public class Vehiculos
     {
         public string placa {get; set;}
         public string modelo {get; set;}
