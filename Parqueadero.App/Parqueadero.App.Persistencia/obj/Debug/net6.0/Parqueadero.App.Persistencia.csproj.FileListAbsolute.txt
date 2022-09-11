@@ -1,0 +1,17 @@
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Persistencia\obj\Debug\net6.0\Parqueadero.App.Persistencia.csproj.AssemblyReference.cache
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Persistencia\obj\Debug\net6.0\Parqueadero.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Persistencia\obj\Debug\net6.0\Parqueadero.App.Persistencia.AssemblyInfoInputs.cache
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Persistencia\obj\Debug\net6.0\Parqueadero.App.Persistencia.AssemblyInfo.cs
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Persistencia\obj\Debug\net6.0\Parqueadero.App.Persistencia.csproj.CoreCompileInputs.cache
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Persistencia\bin\Debug\net6.0\Parqueadero.App.Persistencia.deps.json
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Persistencia\bin\Debug\net6.0\Parqueadero.App.Persistencia.runtimeconfig.json
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Persistencia\bin\Debug\net6.0\Parqueadero.App.Persistencia.dll
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Persistencia\bin\Debug\net6.0\Parqueadero.App.Persistencia.pdb
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Persistencia\bin\Debug\net6.0\Parqueadero.App.Dominio.dll
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Persistencia\bin\Debug\net6.0\Parqueadero.App.Dominio.pdb
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Persistencia\obj\Debug\net6.0\Parqueadero.App.Persistencia.csproj.CopyComplete
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Persistencia\obj\Debug\net6.0\Parqueadero.App.Persistencia.dll
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Persistencia\obj\Debug\net6.0\refint\Parqueadero.App.Persistencia.dll
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Persistencia\obj\Debug\net6.0\Parqueadero.App.Persistencia.pdb
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Persistencia\obj\Debug\net6.0\Parqueadero.App.Persistencia.genruntimeconfig.cache
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Persistencia\obj\Debug\net6.0\ref\Parqueadero.App.Persistencia.dll

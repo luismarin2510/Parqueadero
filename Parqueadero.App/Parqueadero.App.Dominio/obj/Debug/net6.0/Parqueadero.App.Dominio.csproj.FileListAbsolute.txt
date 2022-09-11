@@ -1,0 +1,12 @@
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Dominio\bin\Debug\net6.0\Parqueadero.App.Dominio.deps.json
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Dominio\bin\Debug\net6.0\Parqueadero.App.Dominio.dll
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Dominio\bin\Debug\net6.0\Parqueadero.App.Dominio.pdb
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Dominio\obj\Debug\net6.0\Parqueadero.App.Dominio.csproj.AssemblyReference.cache
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Dominio\obj\Debug\net6.0\Parqueadero.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Dominio\obj\Debug\net6.0\Parqueadero.App.Dominio.AssemblyInfoInputs.cache
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Dominio\obj\Debug\net6.0\Parqueadero.App.Dominio.AssemblyInfo.cs
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Dominio\obj\Debug\net6.0\Parqueadero.App.Dominio.csproj.CoreCompileInputs.cache
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Dominio\obj\Debug\net6.0\Parqueadero.App.Dominio.dll
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Dominio\obj\Debug\net6.0\refint\Parqueadero.App.Dominio.dll
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Dominio\obj\Debug\net6.0\Parqueadero.App.Dominio.pdb
+D:\parqueadero\Parqueadero\Parqueadero.App\Parqueadero.App.Dominio\obj\Debug\net6.0\ref\Parqueadero.App.Dominio.dll

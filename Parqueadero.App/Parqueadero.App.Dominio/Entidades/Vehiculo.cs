@@ -1,9 +1,9 @@
 using System;
 
-namespace Grupo36.App.Dominio
+namespace Parqueadero.App.Dominio
 {
 
-    public class Vehiculos
+    public class Vehiculo
     {
         public string placa { get; set; }
         public string modelo { get; set; }

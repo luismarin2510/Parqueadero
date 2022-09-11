@@ -1,6 +1,6 @@
 using System;
 
-namespace Grupo36.App.Dominio
+namespace Parqueadero.App.Dominio
 {
 
     public class Transaccion

@@ -782,6 +782,16 @@
             "rid": "win"
           }
         }
+      },
+      "Parqueadero.App.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Parqueadero.App.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Parqueadero.App.Dominio.dll": {}
+        }
       }
     }
   },
@@ -2003,6 +2013,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Parqueadero.App.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../Parqueadero.App.Dominio/Parqueadero.App.Dominio.csproj",
+      "msbuildProject": "../Parqueadero.App.Dominio/Parqueadero.App.Dominio.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2010,7 +2025,8 @@
       "Microsoft.EntityFrameworkCore >= 6.0.8",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.8",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.8",
-      "Microsoft.EntityFrameworkCore.Tools >= 6.0.8"
+      "Microsoft.EntityFrameworkCore.Tools >= 6.0.8",
+      "Parqueadero.App.Dominio >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2037,7 +2053,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\parqueadero\\Parqueadero\\Parqueadero.App\\Parqueadero.App.Dominio\\Parqueadero.App.Dominio.csproj": {
+              "projectPath": "D:\\parqueadero\\Parqueadero\\Parqueadero.App\\Parqueadero.App.Dominio\\Parqueadero.App.Dominio.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

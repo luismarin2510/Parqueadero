@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\parqueadero\\Parqueadero.App\\Parqueadero.App.Dominio\\Parqueadero.App.Dominio.csproj": {}
+    "D:\\parqueadero\\Parqueadero\\Parqueadero.App\\Parqueadero.App.Dominio\\Parqueadero.App.Dominio.csproj": {}
   },
   "projects": {
-    "D:\\parqueadero\\Parqueadero.App\\Parqueadero.App.Dominio\\Parqueadero.App.Dominio.csproj": {
+    "D:\\parqueadero\\Parqueadero\\Parqueadero.App\\Parqueadero.App.Dominio\\Parqueadero.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\parqueadero\\Parqueadero.App\\Parqueadero.App.Dominio\\Parqueadero.App.Dominio.csproj",
+        "projectUniqueName": "D:\\parqueadero\\Parqueadero\\Parqueadero.App\\Parqueadero.App.Dominio\\Parqueadero.App.Dominio.csproj",
         "projectName": "Parqueadero.App.Dominio",
-        "projectPath": "D:\\parqueadero\\Parqueadero.App\\Parqueadero.App.Dominio\\Parqueadero.App.Dominio.csproj",
+        "projectPath": "D:\\parqueadero\\Parqueadero\\Parqueadero.App\\Parqueadero.App.Dominio\\Parqueadero.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\Inquisidor\\.nuget\\packages\\",
-        "outputPath": "D:\\parqueadero\\Parqueadero.App\\Parqueadero.App.Dominio\\obj\\",
+        "outputPath": "D:\\parqueadero\\Parqueadero\\Parqueadero.App\\Parqueadero.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Inquisidor\\AppData\\Roaming\\NuGet\\NuGet.Config"
