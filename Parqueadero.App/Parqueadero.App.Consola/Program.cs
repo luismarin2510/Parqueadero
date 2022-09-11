@@ -10,8 +10,8 @@ namespace Parqueadero.App.Consola
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            AddPerson();
-            // buscarPersona(1);
+            // AddPerson();
+            buscarPersona(3);
 
         }
         private static void AddPerson()
@@ -27,7 +27,7 @@ namespace Parqueadero.App.Consola
                 email = "pedro@xmail.com",
                 estacionamiento = "3",
                 numero_vehiculos = "1",
-                horario = "2022-09-11 12:05:05",
+                horario = DateTime.Now
 
             };
             _repoPersona.AddPersona(pers);
