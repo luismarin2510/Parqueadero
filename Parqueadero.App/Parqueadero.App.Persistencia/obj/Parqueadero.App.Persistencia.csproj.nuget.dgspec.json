@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\parqueadero\\Parqueadero\\Parqueadero.App\\Parqueadero.App.Persistencia\\Parqueadero.App.Persistencia.csproj": {}
+    "D:\\parqueadero\\Parqueadero\\parqueadero.App\\parqueadero.App.Persistencia\\Parqueadero.App.Persistencia.csproj": {}
   },
   "projects": {
-    "D:\\parqueadero\\Parqueadero\\Parqueadero.App\\Parqueadero.App.Dominio\\Parqueadero.App.Dominio.csproj": {
+    "D:\\parqueadero\\Parqueadero\\parqueadero.App\\Parqueadero.App.Dominio\\Parqueadero.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\parqueadero\\Parqueadero\\Parqueadero.App\\Parqueadero.App.Dominio\\Parqueadero.App.Dominio.csproj",
+        "projectUniqueName": "D:\\parqueadero\\Parqueadero\\parqueadero.App\\Parqueadero.App.Dominio\\Parqueadero.App.Dominio.csproj",
         "projectName": "Parqueadero.App.Dominio",
-        "projectPath": "D:\\parqueadero\\Parqueadero\\Parqueadero.App\\Parqueadero.App.Dominio\\Parqueadero.App.Dominio.csproj",
+        "projectPath": "D:\\parqueadero\\Parqueadero\\parqueadero.App\\Parqueadero.App.Dominio\\Parqueadero.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\Inquisidor\\.nuget\\packages\\",
-        "outputPath": "D:\\parqueadero\\Parqueadero\\Parqueadero.App\\Parqueadero.App.Dominio\\obj\\",
+        "outputPath": "D:\\parqueadero\\Parqueadero\\parqueadero.App\\Parqueadero.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Inquisidor\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "D:\\parqueadero\\Parqueadero\\Parqueadero.App\\Parqueadero.App.Persistencia\\Parqueadero.App.Persistencia.csproj": {
+    "D:\\parqueadero\\Parqueadero\\parqueadero.App\\parqueadero.App.Persistencia\\Parqueadero.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\parqueadero\\Parqueadero\\Parqueadero.App\\Parqueadero.App.Persistencia\\Parqueadero.App.Persistencia.csproj",
+        "projectUniqueName": "D:\\parqueadero\\Parqueadero\\parqueadero.App\\parqueadero.App.Persistencia\\Parqueadero.App.Persistencia.csproj",
         "projectName": "Parqueadero.App.Persistencia",
-        "projectPath": "D:\\parqueadero\\Parqueadero\\Parqueadero.App\\Parqueadero.App.Persistencia\\Parqueadero.App.Persistencia.csproj",
+        "projectPath": "D:\\parqueadero\\Parqueadero\\parqueadero.App\\parqueadero.App.Persistencia\\Parqueadero.App.Persistencia.csproj",
         "packagesPath": "C:\\Users\\Inquisidor\\.nuget\\packages\\",
-        "outputPath": "D:\\parqueadero\\Parqueadero\\Parqueadero.App\\Parqueadero.App.Persistencia\\obj\\",
+        "outputPath": "D:\\parqueadero\\Parqueadero\\parqueadero.App\\parqueadero.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Inquisidor\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -79,8 +79,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\parqueadero\\Parqueadero\\Parqueadero.App\\Parqueadero.App.Dominio\\Parqueadero.App.Dominio.csproj": {
-                "projectPath": "D:\\parqueadero\\Parqueadero\\Parqueadero.App\\Parqueadero.App.Dominio\\Parqueadero.App.Dominio.csproj"
+              "D:\\parqueadero\\Parqueadero\\parqueadero.App\\Parqueadero.App.Dominio\\Parqueadero.App.Dominio.csproj": {
+                "projectPath": "D:\\parqueadero\\Parqueadero\\parqueadero.App\\Parqueadero.App.Dominio\\Parqueadero.App.Dominio.csproj"
               }
             }
           }
