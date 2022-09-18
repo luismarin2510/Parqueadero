@@ -13,7 +13,7 @@ namespace Parqueadero.App.Persistencia
         Porhoras Addporhoras(Porhoras horas);
         // Porhoras Updateporhoras(Porhoras horas);
         void Deleteporhoras(int idPorhoras);
-        // Porhoras Getporhoras(int idPorhoras);
+        Porhoras Getporhoras(int idPorhoras);
 
     }
 }

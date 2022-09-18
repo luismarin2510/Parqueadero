@@ -11,19 +11,19 @@ namespace Parqueadero.App.Persistencia
         {
             appcox = appContext;  /// asignacion de la directiva 
         }
-        // --------capturar todas las horas
+// -------------------------capturar todas las horas------------------------------------
         IEnumerable<Porhoras> IrepositorioPorhoras.GetAllporhoras()
         {
             return appcox.porhorass;
         }
-// --------------- agregar horas---------------------------
+// --------------------------- agregar horas----------------------------------------------
         Porhoras IrepositorioPorhoras.Addporhoras(Parqueadero.App.Dominio.Porhoras horas)
         {
             var agregarhora = appcox.porhorass.Add(horas);
             appcox.SaveChanges();
             return agregarhora.Entity;
         }
-        //----------------- eliminar----------------------------------------
+//-------------------------- eliminar----------------------------------------
         void IrepositorioPorhoras.Deleteporhoras(int idPorhoras)
         {  //// busca lo primero o por defecto a persona => por persona id que sea igual al ide de la persona 
             var encontrarhora = appcox.porhorass.FirstOrDefault(p => p.Id == idPorhoras);
@@ -34,6 +34,12 @@ namespace Parqueadero.App.Persistencia
             appcox.porhorass.Remove(encontrarhora);
             appcox.SaveChanges();
         }
+//  ----------- captura de horas de manera individual ------------------------------
+        Porhoras IrepositorioPorhoras.Getporhoras(int idPorhoras)
+        {
+            return appcox.porhorass.FirstOrDefault(p => p.Id == idPorhoras);
+        }
+// ----------------------------------------------------------------------------------------
 
         
     }
