@@ -8,5 +8,7 @@ namespace Parqueadero.App.Dominio
         public int Id { get; set; }
         public Boolean aprobacion { get; set; }
         public DateTime fecha_salida { get; set; }
+        public DateTime hora_entrada { get; set; }
+        public DateTime hora_salida { get; set; }
     }
 }

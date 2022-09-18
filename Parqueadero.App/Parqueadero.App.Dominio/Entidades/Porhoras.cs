@@ -8,6 +8,7 @@ namespace Parqueadero.App.Dominio
         
         public int Id {get; set;}
         public string motivo {get; set;}
-        public DateTime tiempo {get; set;}
+        public DateTime entrada {get; set;}
+        public DateTime salida { get; set; }
     }
 }

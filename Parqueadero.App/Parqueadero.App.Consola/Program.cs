@@ -13,7 +13,7 @@ namespace Parqueadero.App.Consola
             // AddPerson();
             // buscarPersona(3);
             // eliminar(4);
-            actualizar(5,"Jose Jose ", "Pedro Jose");
+            
 
         }
         private static void AddPerson()
