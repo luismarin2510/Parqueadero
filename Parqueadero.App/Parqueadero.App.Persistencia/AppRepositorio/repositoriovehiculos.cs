@@ -1,12 +1,12 @@
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
+using Parqueadero.App.Dominio;
 
-namespace Parqueadero.App.Persistencia.AppRepositorio
+namespace Parqueadero.App.Persistencia
 {
-    public class repositoriovehiculos
+    public class repositoriovehiculos : Irepositoriovehiculos
     {
         
+
     }
 }
