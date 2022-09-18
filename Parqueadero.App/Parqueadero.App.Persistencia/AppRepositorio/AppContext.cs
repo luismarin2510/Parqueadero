@@ -11,7 +11,7 @@ namespace Parqueadero.App.Persistencia
         public DbSet<Porhoras> porhorass { get; set; }
         public DbSet<Tiempocompleto> tiempocompleto { get; set; }
         public DbSet<Transaccion> transacciones { get; set; }
-        public DbSet<Vehiculo> vehiculos { get; set; }
+        public DbSet<Vehiculo> vehiculoss { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
