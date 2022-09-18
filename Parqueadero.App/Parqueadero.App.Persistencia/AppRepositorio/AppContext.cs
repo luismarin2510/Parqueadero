@@ -9,7 +9,7 @@ namespace Parqueadero.App.Persistencia
         public DbSet<Persona> personas { get; set; }
         public DbSet<Lugar> lugares { get; set; }
         public DbSet<Porhoras> porhorass { get; set; }
-        public DbSet<Tiempocompleto> tiempocompleto { get; set; }
+        public DbSet<Tiempocompleto> tiempocompletoss { get; set; }
         public DbSet<Transaccion> transacciones { get; set; }
         public DbSet<Vehiculo> vehiculoss { get; set; }
 
