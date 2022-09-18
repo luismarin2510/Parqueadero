@@ -1,18 +1,19 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
+using Parqueadero.App.Dominio;
+using Parqueadero.App.Persistencia;
 
-namespace Parqueadero.App.Persistencia.AppRepositorio
+namespace Parqueadero.App.Persistencia
 {
     public interface IrepositorioPorhoras
     {
          
-        IEnumerable<Porhoras> GetAllPorhoras();
-        Porhoras AddPorhoras(Porhoras horas);
-        Porhoras UpdatePersona(Porhoras horas);
-        void DeletePorhoras(int idPorhoras);
-        Porhoras GetPorhoras(int idPorhoras);
+        IEnumerable<Porhoras> GetAllporhoras();
+        Porhoras Addporhoras(Porhoras horas);
+        // Porhoras Updateporhoras(Porhoras horas);
+        void Deleteporhoras(int idPorhoras);
+        // Porhoras Getporhoras(int idPorhoras);
 
     }
 }
