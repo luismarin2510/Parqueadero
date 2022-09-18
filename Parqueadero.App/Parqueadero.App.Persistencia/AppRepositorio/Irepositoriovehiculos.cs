@@ -9,9 +9,9 @@ namespace Parqueadero.App.Persistencia
     public interface Irepositoriovehiculos
     {
         IEnumerable<Vehiculo> GetAllvehiculo();
-        Vehiculo Addporhoras(Vehiculo vehiculo);
-        // Vehiculo Updateporhoras(Vehiculo horas);
-        void Deleteporhoras(int idvehiculo);
-        Vehiculo Getporhoras(int idvehiculo);
+        Vehiculo Addvehculo(Vehiculo vehiculo);
+        // Vehiculo Updatevehiculo(Vehiculo vehiculo);
+        void Deletevehiculo(int idvehiculo);
+        Vehiculo GetVehiculo(int idvehiculo);
     }
 }
