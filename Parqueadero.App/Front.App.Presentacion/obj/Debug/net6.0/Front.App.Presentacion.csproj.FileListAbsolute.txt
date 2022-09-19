@@ -1,0 +1,93 @@
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\bin\Debug\net6.0\appsettings.Development.json
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\bin\Debug\net6.0\appsettings.json
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\bin\Debug\net6.0\Front.App.Presentacion.staticwebassets.runtime.json
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\bin\Debug\net6.0\Front.App.Presentacion.exe
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\bin\Debug\net6.0\Front.App.Presentacion.deps.json
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\bin\Debug\net6.0\Front.App.Presentacion.runtimeconfig.json
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\bin\Debug\net6.0\Front.App.Presentacion.dll
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\bin\Debug\net6.0\Front.App.Presentacion.pdb
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.csproj.AssemblyReference.cache
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.AssemblyInfoInputs.cache
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.AssemblyInfo.cs
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.csproj.CoreCompileInputs.cache
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.MvcApplicationPartsAssemblyInfo.cache
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.RazorAssemblyInfo.cache
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.RazorAssemblyInfo.cs
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\obj\Debug\net6.0\staticwebassets.build.json
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\obj\Debug\net6.0\staticwebassets.development.json
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\obj\Debug\net6.0\scopedcss\bundle\Front.App.Presentacion.styles.css
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\obj\Debug\net6.0\scopedcss\projectbundle\Front.App.Presentacion.bundle.scp.css
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.dll
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\obj\Debug\net6.0\refint\Front.App.Presentacion.dll
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.pdb
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.genruntimeconfig.cache
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\obj\Debug\net6.0\ref\Front.App.Presentacion.dll
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\bin\Debug\net6.0\Dominio.dll
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\bin\Debug\net6.0\Persistencia.dll
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\bin\Debug\net6.0\Dominio.pdb
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\bin\Debug\net6.0\Persistencia.pdb
+D:\ciclo3_ucaldas\Razor_Grupo36\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.csproj.CopyComplete
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\bin\Debug\net6.0\appsettings.Development.json
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\bin\Debug\net6.0\appsettings.json
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\bin\Debug\net6.0\Front.App.Presentacion.staticwebassets.runtime.json
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\bin\Debug\net6.0\Front.App.Presentacion.exe
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\bin\Debug\net6.0\Front.App.Presentacion.deps.json
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\bin\Debug\net6.0\Front.App.Presentacion.runtimeconfig.json
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\bin\Debug\net6.0\Front.App.Presentacion.dll
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\bin\Debug\net6.0\Front.App.Presentacion.pdb
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\bin\Debug\net6.0\Dominio.dll
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\bin\Debug\net6.0\Persistencia.dll
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\bin\Debug\net6.0\Dominio.pdb
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\bin\Debug\net6.0\Persistencia.pdb
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.csproj.AssemblyReference.cache
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.AssemblyInfoInputs.cache
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.AssemblyInfo.cs
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.csproj.CoreCompileInputs.cache
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.MvcApplicationPartsAssemblyInfo.cache
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.RazorAssemblyInfo.cache
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.RazorAssemblyInfo.cs
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\obj\Debug\net6.0\staticwebassets.build.json
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\obj\Debug\net6.0\staticwebassets.development.json
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\obj\Debug\net6.0\scopedcss\bundle\Front.App.Presentacion.styles.css
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\obj\Debug\net6.0\scopedcss\projectbundle\Front.App.Presentacion.bundle.scp.css
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.csproj.CopyComplete
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.dll
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\obj\Debug\net6.0\refint\Front.App.Presentacion.dll
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.pdb
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.genruntimeconfig.cache
+D:\Inquisidor\Downloads\prueba razor\Front.App.Presentacion\obj\Debug\net6.0\ref\Front.App.Presentacion.dll
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\bin\Debug\net6.0\appsettings.Development.json
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\bin\Debug\net6.0\appsettings.json
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\bin\Debug\net6.0\Front.App.Presentacion.staticwebassets.runtime.json
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\bin\Debug\net6.0\Front.App.Presentacion.exe
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\bin\Debug\net6.0\Front.App.Presentacion.deps.json
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\bin\Debug\net6.0\Front.App.Presentacion.runtimeconfig.json
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\bin\Debug\net6.0\Front.App.Presentacion.dll
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\bin\Debug\net6.0\Front.App.Presentacion.pdb
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\bin\Debug\net6.0\Dominio.dll
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\bin\Debug\net6.0\Persistencia.dll
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\bin\Debug\net6.0\Dominio.pdb
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\bin\Debug\net6.0\Persistencia.pdb
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.csproj.AssemblyReference.cache
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.AssemblyInfoInputs.cache
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.AssemblyInfo.cs
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.csproj.CoreCompileInputs.cache
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.MvcApplicationPartsAssemblyInfo.cache
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.RazorAssemblyInfo.cache
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.RazorAssemblyInfo.cs
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\obj\Debug\net6.0\staticwebassets.build.json
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\obj\Debug\net6.0\staticwebassets.development.json
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\obj\Debug\net6.0\scopedcss\bundle\Front.App.Presentacion.styles.css
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\obj\Debug\net6.0\scopedcss\projectbundle\Front.App.Presentacion.bundle.scp.css
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.csproj.CopyComplete
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.dll
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\obj\Debug\net6.0\refint\Front.App.Presentacion.dll
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.pdb
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.genruntimeconfig.cache
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\obj\Debug\net6.0\ref\Front.App.Presentacion.dll

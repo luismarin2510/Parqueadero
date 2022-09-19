@@ -1,0 +1,45 @@
+D:\ciclo3_ucaldas\Razor_Grupo36\Persistencia\bin\Debug\net6.0\Persistencia.deps.json
+D:\ciclo3_ucaldas\Razor_Grupo36\Persistencia\bin\Debug\net6.0\Persistencia.dll
+D:\ciclo3_ucaldas\Razor_Grupo36\Persistencia\bin\Debug\net6.0\Persistencia.pdb
+D:\ciclo3_ucaldas\Razor_Grupo36\Persistencia\bin\Debug\net6.0\Dominio.dll
+D:\ciclo3_ucaldas\Razor_Grupo36\Persistencia\bin\Debug\net6.0\Dominio.pdb
+D:\ciclo3_ucaldas\Razor_Grupo36\Persistencia\obj\Debug\net6.0\Persistencia.csproj.AssemblyReference.cache
+D:\ciclo3_ucaldas\Razor_Grupo36\Persistencia\obj\Debug\net6.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\ciclo3_ucaldas\Razor_Grupo36\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfoInputs.cache
+D:\ciclo3_ucaldas\Razor_Grupo36\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfo.cs
+D:\ciclo3_ucaldas\Razor_Grupo36\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CoreCompileInputs.cache
+D:\ciclo3_ucaldas\Razor_Grupo36\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CopyComplete
+D:\ciclo3_ucaldas\Razor_Grupo36\Persistencia\obj\Debug\net6.0\Persistencia.dll
+D:\ciclo3_ucaldas\Razor_Grupo36\Persistencia\obj\Debug\net6.0\refint\Persistencia.dll
+D:\ciclo3_ucaldas\Razor_Grupo36\Persistencia\obj\Debug\net6.0\Persistencia.pdb
+D:\ciclo3_ucaldas\Razor_Grupo36\Persistencia\obj\Debug\net6.0\ref\Persistencia.dll
+D:\Inquisidor\Downloads\prueba razor\Persistencia\bin\Debug\net6.0\Persistencia.deps.json
+D:\Inquisidor\Downloads\prueba razor\Persistencia\bin\Debug\net6.0\Persistencia.dll
+D:\Inquisidor\Downloads\prueba razor\Persistencia\bin\Debug\net6.0\Persistencia.pdb
+D:\Inquisidor\Downloads\prueba razor\Persistencia\bin\Debug\net6.0\Dominio.dll
+D:\Inquisidor\Downloads\prueba razor\Persistencia\bin\Debug\net6.0\Dominio.pdb
+D:\Inquisidor\Downloads\prueba razor\Persistencia\obj\Debug\net6.0\Persistencia.csproj.AssemblyReference.cache
+D:\Inquisidor\Downloads\prueba razor\Persistencia\obj\Debug\net6.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Inquisidor\Downloads\prueba razor\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfoInputs.cache
+D:\Inquisidor\Downloads\prueba razor\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfo.cs
+D:\Inquisidor\Downloads\prueba razor\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CoreCompileInputs.cache
+D:\Inquisidor\Downloads\prueba razor\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CopyComplete
+D:\Inquisidor\Downloads\prueba razor\Persistencia\obj\Debug\net6.0\Persistencia.dll
+D:\Inquisidor\Downloads\prueba razor\Persistencia\obj\Debug\net6.0\refint\Persistencia.dll
+D:\Inquisidor\Downloads\prueba razor\Persistencia\obj\Debug\net6.0\Persistencia.pdb
+D:\Inquisidor\Downloads\prueba razor\Persistencia\obj\Debug\net6.0\ref\Persistencia.dll
+D:\parqueadero\Parqueadero\Parqueadero.App\Persistencia\bin\Debug\net6.0\Persistencia.deps.json
+D:\parqueadero\Parqueadero\Parqueadero.App\Persistencia\bin\Debug\net6.0\Persistencia.dll
+D:\parqueadero\Parqueadero\Parqueadero.App\Persistencia\bin\Debug\net6.0\Persistencia.pdb
+D:\parqueadero\Parqueadero\Parqueadero.App\Persistencia\bin\Debug\net6.0\Dominio.dll
+D:\parqueadero\Parqueadero\Parqueadero.App\Persistencia\bin\Debug\net6.0\Dominio.pdb
+D:\parqueadero\Parqueadero\Parqueadero.App\Persistencia\obj\Debug\net6.0\Persistencia.csproj.AssemblyReference.cache
+D:\parqueadero\Parqueadero\Parqueadero.App\Persistencia\obj\Debug\net6.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\parqueadero\Parqueadero\Parqueadero.App\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfoInputs.cache
+D:\parqueadero\Parqueadero\Parqueadero.App\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfo.cs
+D:\parqueadero\Parqueadero\Parqueadero.App\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CoreCompileInputs.cache
+D:\parqueadero\Parqueadero\Parqueadero.App\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CopyComplete
+D:\parqueadero\Parqueadero\Parqueadero.App\Persistencia\obj\Debug\net6.0\Persistencia.dll
+D:\parqueadero\Parqueadero\Parqueadero.App\Persistencia\obj\Debug\net6.0\refint\Persistencia.dll
+D:\parqueadero\Parqueadero\Parqueadero.App\Persistencia\obj\Debug\net6.0\Persistencia.pdb
+D:\parqueadero\Parqueadero\Parqueadero.App\Persistencia\obj\Debug\net6.0\ref\Persistencia.dll
