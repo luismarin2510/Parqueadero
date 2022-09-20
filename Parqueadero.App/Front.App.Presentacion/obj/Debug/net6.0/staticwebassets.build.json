@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5dV9a4OLmsGeNLPYSukXAKu0wVnsn5/iZv23wcYcfj8=",
+  "Hash": "vDHi6IgnSZhExgQRnwcQghvv1WkhXBtzkuJwTLP8zKM=",
   "Source": "Front.App.Presentacion",
   "BasePath": "_content/Front.App.Presentacion",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\parqueadero\\Parqueadero\\Parqueadero.App\\Front.App.Presentacion\\wwwroot\\img\\parking.jpg",
+      "SourceId": "Front.App.Presentacion",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\parqueadero\\Parqueadero\\Parqueadero.App\\Front.App.Presentacion\\wwwroot\\",
+      "BasePath": "_content/Front.App.Presentacion",
+      "RelativePath": "img/parking.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\parking.jpg"
     },
     {
       "Identity": "D:\\parqueadero\\Parqueadero\\Parqueadero.App\\Front.App.Presentacion\\wwwroot\\js\\site.js",
