@@ -14,5 +14,6 @@ namespace Parqueadero.App.Dominio
         public DateTime horario { get; set; }
         public string estacionamiento { get; set; }
         public string numero_vehiculos { get; set; }
+        public string correo { get; set;}
     }
 }
