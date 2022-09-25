@@ -1,11 +1,28 @@
 @page
 @model Front.App.Presentacion.Pages.Saludo.Registrar
 @{
-    ViewData["Title"] = "Registrar";
+    ViewData["Title"] = "Crear Usuario";
 }
 
 <h1>@ViewData["Title"]</h1>
-
 <div>
-    
+
+<div class="container">
+    <div class=" row">
+        <div class="col-8 offset-2">
+            <div class="text-info"> Crear Nuevo Usuario</div>
+
+            <form method="POST">
+                <div class="mb-3">
+                    <label asp-for="Persona.nombre" class="form-label"></label>
+                    <input asp-for="Persona.nombre" class="form-control"/>
+                    <span asp-validation-for="Persona.nombre" class="text-danger"></span>
+                </div>
+                <button type="submit" class="btn btn-secundary"> Crear Usuario</button>
+            </form>
+
+        </div>
+
+    </div>
+
 </div>

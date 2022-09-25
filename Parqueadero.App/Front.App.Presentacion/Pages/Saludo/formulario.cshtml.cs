@@ -5,21 +5,17 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
-using Parqueadero.App.Dominio;
 
 namespace Front.App.Presentacion.Pages.Saludo
 {
-    public class Registrar : PageModel
+    public class formulario : PageModel
     {
-        private readonly ILogger<Registrar> _logger;
+        private readonly ILogger<formulario> _logger;
 
-        public Registrar(ILogger<Registrar> logger)
+        public formulario(ILogger<formulario> logger)
         {
             _logger = logger;
         }
-        [BindProperty]
-
-        public Persona persona { get; set; }
 
         public void OnGet()
         {
