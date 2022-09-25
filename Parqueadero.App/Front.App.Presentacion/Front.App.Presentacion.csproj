@@ -3,6 +3,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Dominio\Dominio.csproj" />
     <ProjectReference Include="..\Persistencia\Persistencia.csproj" />
+    <ProjectReference Include="..\Parqueadero.App.Dominio\Parqueadero.App.Dominio.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

@@ -9,6 +9,7 @@
       "Front.App.Presentacion/1.0.0": {
         "dependencies": {
           "Dominio": "1.0.0",
+          "Parqueadero.App.Dominio": "1.0.0",
           "Persistencia": "1.0.0"
         },
         "runtime": {
@@ -18,6 +19,11 @@
       "Dominio/1.0.0": {
         "runtime": {
           "Dominio.dll": {}
+        }
+      },
+      "Parqueadero.App.Dominio/1.0.0": {
+        "runtime": {
+          "Parqueadero.App.Dominio.dll": {}
         }
       },
       "Persistencia/1.0.0": {
@@ -37,6 +43,11 @@
       "sha512": ""
     },
     "Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Parqueadero.App.Dominio/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

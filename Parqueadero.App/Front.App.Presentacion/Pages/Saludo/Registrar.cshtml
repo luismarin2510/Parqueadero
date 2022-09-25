@@ -5,7 +5,7 @@
 }
 
 <h1>@ViewData["Title"]</h1>
-<div>
+
 
 <div class="container">
     <div class=" row">
@@ -14,15 +14,20 @@
 
             <form method="POST">
                 <div class="mb-3">
-                    <label asp-for="Persona.nombre" class="form-label"></label>
-                    <input asp-for="Persona.nombre" class="form-control"/>
-                    <span asp-validation-for="Persona.nombre" class="text-danger"></span>
+                    <label asp-for="personas.nombre" class="form-label"></label>
+                    <input asp-for="personas.nombre" class="form-control"/>
+                    <span asp-validation-for="personas.nombre" class="text-danger"></span>
                 </div>
-                <button type="submit" class="btn btn-secundary"> Crear Usuario</button>
+                <button type="submit" class="btn btn-primary btn-block"> Crear Usuario</button>
             </form>
 
         </div>
 
+    </div>
+    <div class="row">
+        <div class="col-6">
+            <a asp-page="Index" class="btn btn-success">Volver</a>
+        </div>
     </div>
 
 </div>

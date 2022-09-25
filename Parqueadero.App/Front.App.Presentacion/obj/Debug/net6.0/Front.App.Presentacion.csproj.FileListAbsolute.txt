@@ -91,3 +91,5 @@ D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\obj\Debug\net6
 D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.pdb
 D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\obj\Debug\net6.0\Front.App.Presentacion.genruntimeconfig.cache
 D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\obj\Debug\net6.0\ref\Front.App.Presentacion.dll
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\bin\Debug\net6.0\Parqueadero.App.Dominio.dll
+D:\parqueadero\Parqueadero\Parqueadero.App\Front.App.Presentacion\bin\Debug\net6.0\Parqueadero.App.Dominio.pdb
