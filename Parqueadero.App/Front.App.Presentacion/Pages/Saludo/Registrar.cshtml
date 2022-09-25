@@ -15,22 +15,22 @@
             <form method="POST">
                 <div class="mb-3">
                     <label asp-for="personas.nombre" class="form-label"></label>
-                    <input asp-for="personas.nombre" class="form-control"/>
+                    <input asp-for="personas.nombre" class="form-control" placeholder="Ingresa tus nombres"/>
                     <span asp-validation-for="personas.nombre" class="text-danger"></span>
                 </div>
                 <div class="mb-3">
                     <label asp-for="personas.apellido" class="form-label"></label>
-                    <input asp-for="personas.apellido" class="form-control"/>
+                    <input asp-for="personas.apellido" class="form-control" placeholder="Ingresa tus apellidos"/>
                     <span asp-validation-for="personas.apellido" class="text-danger"></span>
                 </div>
                 <div class="mb-3">
                     <label asp-for="personas.email" class="form-label"></label>
-                    <input asp-for="personas.email" class="form-control"/>
+                    <input asp-for="personas.email" class="form-control" placeholder="correo@mail.com"/>
                     <span asp-validation-for="personas.email" class="text-danger"></span>
                 </div>
                 <div class="mb-3">
                     <label asp-for="personas.contraseña" class="form-label"></label>
-                    <input asp-for="personas.contraseña" class="form-control" type="password"/>
+                    <input asp-for="personas.contraseña" class="form-control" type="password" placeholder="min 1  Mayuscula y un simbolo"/>
                     <span asp-validation-for="personas.contraseña" class="text-danger"></span>
                 </div>
                 
@@ -47,3 +47,7 @@
     </div>
 
 </div>
+@* //---------------- validacion de datos ------------------------------- *@
+@section Scripts{
+    <parcial name="_ValidationScriptsPartial"/>
+}

@@ -6,11 +6,14 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 using Parqueadero.App.Dominio;
+using Parqueadero.App.Persistencia;
 
 namespace Front.App.Presentacion.Pages.Saludo
 {
     public class Registrar : PageModel
     {
+        private static IRepositorio _repoPersona =  new Repositorio(new Parqueadero.App.Persistencia.AppContext());
+
         private readonly ILogger<Registrar> _logger;
 
         public Registrar(ILogger<Registrar> logger)
@@ -24,5 +27,13 @@ namespace Front.App.Presentacion.Pages.Saludo
         public void OnGet()
         {
         }
+
+    //     public void OnPost()
+    // {
+    //          _repoPersona.AddPersona(personas);
+
+    //         // return RedirectToPage("/Saludo/login");    
+    // }
+
     }
 }
