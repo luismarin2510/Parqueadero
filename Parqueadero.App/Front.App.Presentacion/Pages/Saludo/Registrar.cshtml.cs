@@ -19,7 +19,7 @@ namespace Front.App.Presentacion.Pages.Saludo
         }
         [BindProperty]
 
-        // public Persona personas { get; set; }
+        public Persona personas { get; set; }
 
         public void OnGet()
         {

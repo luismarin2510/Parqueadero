@@ -24,9 +24,14 @@
                     <span asp-validation-for="personas.apellido" class="text-danger"></span>
                 </div>
                 <div class="mb-3">
-                    <label asp-for="personas.telefono" class="form-label"></label>
-                    <input asp-for="personas.telefono" class="form-control"/>
-                    <span asp-validation-for="personas.telefono" class="text-danger"></span>
+                    <label asp-for="personas.email" class="form-label"></label>
+                    <input asp-for="personas.email" class="form-control"/>
+                    <span asp-validation-for="personas.email" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="personas.contraseña" class="form-label"></label>
+                    <input asp-for="personas.contraseña" class="form-control" type="password"/>
+                    <span asp-validation-for="personas.contraseña" class="text-danger"></span>
                 </div>
                 
                 <button type="submit" class="btn btn-primary btn-block"> Crear Usuario</button>
