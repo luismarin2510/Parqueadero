@@ -12,7 +12,7 @@ namespace Front.App.Presentacion.Pages.Saludo
 {
     public class Registrar : PageModel
     {
-        private static IRepositorio _repoPersona =  new Repositorio(new Parqueadero.App.Persistencia.AppContext());
+        private static IRepositorio _repoPersona = new Repositorio(new Parqueadero.App.Persistencia.AppContext());
 
         private readonly ILogger<Registrar> _logger;
 
@@ -23,17 +23,28 @@ namespace Front.App.Presentacion.Pages.Saludo
         [BindProperty]
 
         public Persona personas { get; set; }
+        // public Vehiculo carro { get; set; }
 
         public void OnGet()
         {
         }
-
+// async Task<IActionResult>
         public void OnPost()
-    {
-             _repoPersona.AddPersona(personas);
+        {
+            if (personas != null)
+            {
+               _repoPersona.AddPersona(personas);
+            //    return RedirectToPage("/Saludo/login");
+
+            }
+            // else
+            // {
+            //    return Page();
+            // }
+
 
             // return RedirectToPage("/Saludo/login");    
-    }
+        }
 
     }
 }

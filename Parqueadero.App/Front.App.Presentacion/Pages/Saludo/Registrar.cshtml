@@ -6,7 +6,6 @@
 
 <h1>@ViewData["Title"]</h1>
 
-
 <div class="container">
     <div class=" row">
         <div class="col-12 offset-2">
@@ -33,12 +32,25 @@
                     <input asp-for="personas.contraseña" class="form-control" type="password" placeholder="min 1  Mayuscula y un simbolo"/>
                     <span asp-validation-for="personas.contraseña" class="text-danger"></span>
                 </div>
+                <div class="mb-3">
+                    <label asp-for="personas.cedula" class="form-label"></label>
+                    <input asp-for="personas.cedula" class="form-control"  placeholder="tu numero de identificacion nacional"/>
+                    <span asp-validation-for="personas.cedula" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="personas.telefono" class="form-label"></label>
+                    <input asp-for="personas.telefono" class="form-control" placeholder="numero que usas para llamarte"/>
+                    <span asp-validation-for="personas.telefono" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="personas.numero_vehiculos" class="form-label"></label>
+                    <input asp-for="personas.numero_vehiculos" class="form-control" placeholder="cuantos vehiculos tienes "/>
+                    <span asp-validation-for="personas.numero_vehiculos" class="text-danger"></span>
+                </div>
                 
                 <button type="submit" class="btn btn-primary btn-block"> Crear Usuario</button>
             </form>
-
         </div>
-
     </div>
     <div class="row">
         <div class="col-6">
@@ -48,6 +60,7 @@
 
 </div>
 @* //---------------- validacion de datos ------------------------------- *@
+
 @section Scripts{
     <parcial name="_ValidationScriptsPartial"/>
 }
