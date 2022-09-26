@@ -28,12 +28,12 @@ namespace Front.App.Presentacion.Pages.Saludo
         {
         }
 
-    //     public void OnPost()
-    // {
-    //          _repoPersona.AddPersona(personas);
+        public void OnPost()
+    {
+             _repoPersona.AddPersona(personas);
 
-    //         // return RedirectToPage("/Saludo/login");    
-    // }
+            // return RedirectToPage("/Saludo/login");    
+    }
 
     }
 }
